@@ -51,7 +51,7 @@
 
                   <!-- 직원 관리 -->
                   <li class="nav-item">
-                    <a class="nav-link" href="#"><span>직원관리</span></a>
+                    <a class="nav-link" href="#"><span>ABOUT ME</span></a>
                     <ul>
                       <li class="nav-item">
                         <a class="nav-link" href="portfolio-layout-1.html"
@@ -75,7 +75,7 @@
 
                   <!-- 상품 관리 -->
                   <li class="nav-item">
-                    <a class="nav-link" href="#"><span>상품관리</span></a>
+                    <a class="nav-link" href="#"><span>PROJECTS</span></a>
                     <ul>
                       <li class="nav-item">
                         <a class="nav-link" href="portfolio-layout-1.html"
@@ -99,15 +99,13 @@
 
                   <!-- 예약 관리 -->
                   <li class="nav-item">
-                    <a class="nav-link" href="index.html"
-                      ><span>예약관리</span></a
-                    >
+                    <a class="nav-link" href="index.html"><span>BLOG</span></a>
                   </li>
 
                   <!-- 커뮤니티 -->
                   <li class="nav-item">
                     <a class="nav-link" href="index.html"
-                      ><span>커뮤니티</span></a
+                      ><span>CONTACT</span></a
                     >
                   </li>
                 </ul>
