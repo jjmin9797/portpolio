@@ -84,7 +84,7 @@
                         <!-- Section title heading -->
                         <div class="section-title-heading">
                           <h6 class="font-weight-500 accent-color">
-                            FULL STACK DEVELOPER
+                            FULL STACK DEVELOPE
                           </h6>
                           <h3>신정민</h3>
                         </div>
@@ -105,21 +105,17 @@
                         <!-- Block content -->
                         <div class="main-block-content text-block-content">
                           <p>
-                            Quisque viverra accumsan urna fermentum elementum.
-                            Etiam vitae elit at nulla egestas efficitur sit amet
-                            eu leo. Maecenas maximus leo sed neque molestie,
-                            eget fermentum purus lacinia. Donec pulvinar quam
-                            dolor, vitae semper ligula pretium eu.
+                            안녕하세요. 안주하지 않는 개발자 신정민입니다.
+                            포기하지 않는 끈기와 배움에 대한 열정으로 성장하고
+                            있습니다.
                           </p>
 
-                          <p>
-                            Fusce volutpat dolor pellentesque, consequat nibh
-                            nec, ultrices urna. Proin id eros scelerisque,
-                            posuere dolor laoreet, pretium ligula. Donec auctor
-                            eget tellus quis imperdiet. Capitalise on low
-                            hanging fruit to identify a ballpark value added
-                            activity to beta test.
-                          </p>
+                          <p>✔️ Full Name : 신정민</p>
+                          <p>✔️ Nick Name : DingCo</p>
+                          <p>✔️ Phone : 010-8652-7993</p>
+                          <p>✔️ E-mail : jjmin9797@naver.com</p>
+                          <p>✔️ Address : 경기도 남양주시 다산동</p>
+                          <p>✔️ Birth Date : 1997.04.19</p>
                         </div>
                         <!-- /End Block content -->
                       </div>
@@ -131,29 +127,31 @@
 
                   <!-- Social networks -->
                   <div
-                    class="
-                      social-networks
-                      social-networks-sm
-                      social-networks-layout-2
-                    "
+                    class="social-networks social-networks-sm social-networks-layout-2"
                   >
                     <ul>
                       <li>
-                        <a href="#" title="Github">
+                        <a href="https://github.com/jjmin9797" title="Github">
                           <i class="fab fa-github"></i>
                           <i class="fab fa-github"></i>
                         </a>
                       </li>
 
                       <li>
-                        <a href="#" title="Instagram">
+                        <a
+                          href="https://www.instagram.com/_jung._.min_/"
+                          title="Instagram"
+                        >
                           <i class="fab fa-instagram"></i>
                           <i class="fab fa-instagram"></i>
                         </a>
                       </li>
 
                       <li>
-                        <a href="#" title="Notion">
+                        <a
+                          href="https://jumgmin.notion.site/ONE-STEP-TODAY-4abcf4044fc645679bd0cdd06f1b094d"
+                          title="Notion"
+                        >
                           <i class="bi bi-bookmarks-fill"></i>
                           <i class="bi bi-bookmarks"></i>
                         </a>
@@ -244,24 +242,25 @@
                                 class="main-block-heading blog-block-heading"
                               >
                                 <h2 class="h5 title">
-                                  <a href="#"
-                                    >You must do the things you think you can't
-                                    do</a
-                                  >
+                                  <a href="#">STUDIO D 학원 홈페이지 개발</a>
                                 </h2>
+                                <p>학원소개 홈페이지, 원생관리 프로그램</p>
 
                                 <ul class="meta-block">
                                   <li class="meta-block-date">
-                                    <span><a href="#">May 17, 2021</a></span>
+                                    <span><a href="#">2022</a></span>
                                   </li>
                                   <li class="meta-block-category">
-                                    <span><a href="#">Standard</a></span>
+                                    <span>Spirng Boot</span>
                                   </li>
-                                  <li class="meta-block-comments">
-                                    <span><a href="#">No Comments</a></span>
+                                  <li class="meta-block-category">
+                                    <span>MySQL</span>
                                   </li>
-                                  <li class="meta-block-views">
-                                    <span><i class="far fa-eye"></i>20</span>
+                                  <li class="meta-block-category">
+                                    <span>AWS</span>
+                                  </li>
+                                  <li class="meta-block-category">
+                                    <span>JSP</span>
                                   </li>
                                 </ul>
                               </div>
@@ -301,23 +300,21 @@
                                 class="main-block-heading blog-block-heading"
                               >
                                 <h2 class="h5 title">
-                                  <a href="#"
-                                    >ideas shape the course of history</a
-                                  >
+                                  <a href="#">CRAWLING PLUS</a>
                                 </h2>
-
+                                <p>robots.txt 파일 찾기, 크롤링 Helper</p>
                                 <ul class="meta-block">
                                   <li class="meta-block-date">
-                                    <span><a href="#">May 17, 2021</a></span>
+                                    <span><a href="#">2023</a></span>
                                   </li>
                                   <li class="meta-block-category">
-                                    <span><a href="#">Standard</a></span>
+                                    <span>FastAPI</span>
                                   </li>
-                                  <li class="meta-block-comments">
-                                    <span><a href="#">No Comments</a></span>
+                                  <li class="meta-block-category">
+                                    <span>Vuejs3</span>
                                   </li>
-                                  <li class="meta-block-views">
-                                    <span><i class="far fa-eye"></i>20</span>
+                                  <li class="meta-block-category">
+                                    <span>AWS</span>
                                   </li>
                                 </ul>
                               </div>
@@ -357,23 +354,21 @@
                                 class="main-block-heading blog-block-heading"
                               >
                                 <h2 class="h5 title">
-                                  <a href="#"
-                                    >a great idea can make difference</a
-                                  >
+                                  <a href="#">동물병ONE</a>
                                 </h2>
 
                                 <ul class="meta-block">
                                   <li class="meta-block-date">
-                                    <span><a href="#">May 17, 2021</a></span>
+                                    <span><a href="#"></a></span>
                                   </li>
                                   <li class="meta-block-category">
-                                    <span><a href="#">Standard</a></span>
+                                    <span></span>
                                   </li>
-                                  <li class="meta-block-comments">
-                                    <span><a href="#">No Comments</a></span>
+                                  <li class="meta-block-category">
+                                    <span></span>
                                   </li>
-                                  <li class="meta-block-views">
-                                    <span><i class="far fa-eye"></i>20</span>
+                                  <li class="meta-block-category">
+                                    <span></span>
                                   </li>
                                 </ul>
                               </div>

@@ -51,26 +51,9 @@
 
                   <!-- 직원 관리 -->
                   <li class="nav-item">
-                    <a class="nav-link" href="#"><span>ABOUT ME</span></a>
-                    <ul>
-                      <li class="nav-item">
-                        <a class="nav-link" href="portfolio-layout-1.html"
-                          ><span>직원 목록 관리</span></a
-                        >
-                      </li>
-
-                      <li class="nav-item">
-                        <a class="nav-link" href="portfolio-layout-2.html"
-                          ><span>근무표 관리</span></a
-                        >
-                      </li>
-
-                      <li class="nav-item">
-                        <a class="nav-link" href="portfolio-layout-3.html"
-                          ><span>출퇴근 기록</span></a
-                        >
-                      </li>
-                    </ul>
+                    <router-link class="nav-link" :to="{ name: 'AboutMe' }"
+                      ><span>ABOUT ME</span></router-link
+                    >
                   </li>
 
                   <!-- 상품 관리 -->
